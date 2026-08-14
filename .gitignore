@@ -1,0 +1,10 @@
+# PlatformIO build output and downloaded libraries
+.pio/
+
+# VS Code workspace bits (keep extension recommendations, ignore the rest)
+.vscode/*
+!.vscode/extensions.json
+
+# OS / editor cruft
+.DS_Store
+*.swp
